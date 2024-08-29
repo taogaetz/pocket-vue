@@ -1,0 +1,5 @@
+node_modules
+.env
+*/pocketbase
+pb_data
+backend/pocketbase_0/pocketbase
